@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Spinner
+    </string>
+    <string-array name="EURO" >
+        <item>inr</item>
+        <item>usd</item>
+        <item>aud</item>
+        <item>sar</item>
+        <item>cny</item>
+        <item>jpy</item>
+
+
+    </string-array>
+
+</resources>
